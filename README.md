@@ -11,4 +11,4 @@ I wish to do more projects which involve using ML to gain insight into physical 
 Code Project(s) I am currently working on:
  - Another DRL project
  - A Raspberry Pi ML Project
- - Dabbiling into Quantum Machine Learning (not really a project yet but I'm exploring because it's something I'm interested in)
+ - Dabbling into Quantum Machine Learning (not really a project yet but I'm exploring because it's something I'm interested in)
