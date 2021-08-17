@@ -8,6 +8,6 @@ I am a young coder that uses Convolutional Machine Learning to do all sorts of p
 
 I wish to do more projects which involve using ML to gain insight into physical phenomena, like the magnetic pendulum project I did.
 
-Code Projects I am currently working on:
+Code Project(s) I am currently working on:
  - Another DRL project
  - A Raspberry Pi ML Project
