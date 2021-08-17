@@ -2,7 +2,7 @@
 
 I am a young coder that uses Convolutional Machine Learning to do all sorts of projects, which include:
  - A Mario Kart DS DRL Agent that uses PIL's Screencapture for inputs and a Lua Script to reward it
- - Multiple ML networks involving my two cats (GANS, CNNs, detectors)
+ - Multiple ML networks involving my two cats (GANs, CNNs, detectors)
  - Card GANs
  - Using blob detection to track the position of a magnetic pendulum
 
