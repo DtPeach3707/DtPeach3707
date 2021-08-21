@@ -1,4 +1,4 @@
-### Hi, I'm Dmitri Kalinin!
+### Hi, I'm Dmitri K.!
 
 I am a young coder that uses Convolutional Machine Learning to do all sorts of projects, which include:
  - A Mario Kart DS DRL Agent that uses PIL's Screencapture for inputs and a Lua Script to reward it
