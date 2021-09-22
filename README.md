@@ -2,7 +2,7 @@
 
 I am a young coder (mostly using Python) that mainly uses Convolutional Machine Learning and other image processing code to do all sorts of projects, which include:
  - A Mario Kart DS DRL Agent that uses PIL's screenshot function (Imagegrab.grab()) for inputs and a Lua Script to reward it
- - DRL Agent to play Connect 4
+ - A DRL Agent to play Connect 4
  - Multiple ML networks involving my two cats (GANs, CNNs, detectors)
  - Card GANs
  - Using blob detection to track the position of a magnetic pendulum
