@@ -13,3 +13,4 @@ I wish to do more projects which involve using ML to gain insight into physical 
 Code Project(s) I am currently working on:
  - Another DRL project
  - Dabbling into Quantum Machine Learning (not really a project yet but I'm exploring it because it's something I'm interested in)
+ - Sentence and/or music generation using a RNN-based discriminator
