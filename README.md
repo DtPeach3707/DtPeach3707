@@ -9,5 +9,3 @@ I am a young coder (mostly using Python) that uses machine learning, along with 
  - A Raspberry Pi ML project that uses sockets to get a computer to train a CNN to detect the angle of a servo and send it to the RPi to mimic it. 
 
 I wish to do more projects which involve using ML to gain insight into physical phenomena, like the magnetic pendulum project I did.
-
-There are few code projects that I have in the works, and even more ideas for future projects that I want to do!
